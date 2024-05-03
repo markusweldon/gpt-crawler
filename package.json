@@ -8,7 +8,7 @@
   "description": "Crawl a site to generate knowledge files to create your own custom GPT",
   "dependencies": {
     "commander": "^11.1.0",
-    "crawlee": "^3.0.0",
+    "crawlee": "^3.9.1",
     "cross-env": "^7.0.3",
     "glob": "^10.3.10",
     "gpt-tokenizer": "^2.1.2",
