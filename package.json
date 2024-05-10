@@ -14,7 +14,7 @@
     "gpt-tokenizer": "^2.1.2",
     "inquirer": "^9.2.12",
     "playwright": "*",
-    "zod": "^3.22.4"
+    "zod": "^3.22.5"
   },
   "devDependencies": {
     "@apify/tsconfig": "^0.1.0",
